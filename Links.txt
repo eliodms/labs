@@ -1,0 +1,85 @@
+
+001 - Create a VHDX from an ISO.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:aa45adfd-f8ac-4b83-b30d-f0fcec626ae6
+
+004 - How to use PowerShell ISE.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9fcfde8f-2164-468c-a6c2-24590b347ad7
+
+008 - Create a virtual machine with Hyper-V Manager.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:549bddc2-9257-4e04-8df8-7fc415067662
+
+012 - Create new virtual machines using PowerShell.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ffa9a68e-8fd9-45b3-8cf8-35ddea0371e3
+
+016 - Build lab structure.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1b25f709-b3f2-48c5-b6fc-545f3078497a
+
+020 - Template - Hyper-V way.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:61e1812e-c66a-4972-80b2-7eee886388d4
+
+024 - Template - PowerShell way.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3ea914fb-f9a0-4adf-89b9-9b3e2cf251be
+
+036 - Understand virtual hard disk drives types.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:40008b12-e575-4931-9d7d-c5bbac1b0bf4
+
+040 - Create converged network on Hyper-V host using PowerShell.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:42ea12f8-78dd-45a6-bf6e-935bd9313a1c
+
+044 - Manage Virtual Machines virtual networks using PowerShell.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ae969ec2-f675-401d-a5b8-c049cf2ddf66
+
+060 - Troubleshooting Hyper-V.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:013f1221-0899-467c-a917-d271491e552a
+
+064 - Create 4-node cluster with MSLAB.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:739d7b0e-ff3f-43ec-9d9d-2ab345ba7453
+
+068 - Troubleshooting Failover Cluster.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:046fd241-04a4-48bd-884f-08884cd0738d
+
+072 - Explore Hyper-V Failover Clustering.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5342cfcd-360c-4eaf-a387-b2a951efd619
+
+074 - Install new DC running in Hyper-V Virtual Machine.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d2b9c3c9-614c-4892-893a-0ec38f8edf60
+
+076 - Analyze Network Traffic with Hyper-V.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d15c05c6-26dd-4106-8183-4f7a0a5523f9
+
+080 - PowerShell Direct Troubleshooting.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49b313d8-ae7a-439a-a47e-7f1d2bb7c248
+
+088 - Authoritative Restore of a Specific OU on Hyper.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:63c2fb76-caf8-415d-bd2b-45d1d765fc3b
+
+100 - Hyper-V - Backup et Restore - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:96f4b89f-602d-4e84-a08a-3eb1454ff585
+
+104 - Hyper-V - Cloning - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:90bb8e16-4c07-45da-b840-2d79f9bc2309
+
+108 - Hyper-V - Bitlocker - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e74d73c5-dde8-4e1a-8a8e-3d97aa8cf160
+
+112 - Hyper-V - Encrypted VM mobility - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:53454cbc-3a14-46fe-88d2-4061b0c4391a
+
+116 - Hyper-V - Replica - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:cfa404f3-a28a-4907-bf39-1e40178cd155
+
+120 - Failover-Cluster - Clusterization and Unclusterization - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:a4efe66e-4bfe-4382-a68c-7beb842ed90b
+
+124 - Failover-Cluster - Live Migration and Quick Migration - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b7759092-3de1-45da-b411-6ddd09ac4ac7
+
+128 - Failover-Cluster - Replica cluster to standalone - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a1b2499-2b7d-435c-be31-6515dadfeffb
+
+132 - Failover-Cluster - CAU - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:fa6d0635-e5ae-4a58-abde-17d6b871541c
+
+136 - SCVMM - Cluster and VMs management - EN.docx
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:df64ce2c-eb81-4e64-b855-440b2a0d5e05
+
