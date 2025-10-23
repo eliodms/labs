@@ -1,0 +1,28 @@
+# Function to generate a random password
+function Generate-RandomPassword {
+    param([int]$length = 12)
+    
+    $chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+"
+    -join (1..$length | ForEach-Object { $chars[(Get-Random -Minimum 0 -Maximum $chars.Length)] })
+}
+
+# Define the remote computer and user account
+$ComputerName = "RemoteComputerName"
+$UserName = "UserName"
+
+# Generate 100 passwords and attempt login
+1..100 | ForEach-Object {
+    $Password = Generate-RandomPassword -length 12
+    $SecurePassword = ConvertTo-SecureString -String $Password -AsPlainText -Force
+    $Credential = New-Object System.Management.Automation.PSCredential ($UserName, $SecurePassword)
+    
+    # Attempt login via Invoke-Command
+    try {
+        Invoke-Command -ComputerName $ComputerName -Credential $Credential -ScriptBlock {
+            Write-Host "Successful login attempt with password: $($using:Password)"
+        } -ErrorAction Stop
+        Write-Host "Login successful with password: $Password"
+    } catch {
+        Write-Host "Failed login attempt with password: $Password"
+    }
+}
