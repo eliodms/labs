@@ -2,19 +2,18 @@
 ioengine=libaio
 direct=1
 runtime=60
-timebased
+time_based
 size=2G
 numjobs=4
 iodepth=32
-groupreporting
- 
-[seqread]
+group_reporting
+
+[seq_read]
 rw=read
 bs=128k
 filename=testfile
 
-
-[randwrite]
+[rand_write]
 rw=randwrite
 bs=4k
 filename=testfile
